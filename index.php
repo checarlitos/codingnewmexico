@@ -6,7 +6,8 @@
 
 <body>
 	<p>Milestone 1.</p>
-	<p>This site will serve two purposes. The site will bring to life my abilities and skills i have learned by displaying them in a professional platform as a business. The site will also isync be a live, current and functional portfolio/resume to help me earn a position in the right company.
+	<p>This site will serve two purposes. The site will bring to life my abilities and skills i have learned by displaying them in a professional platform as a business.</p>
+		<p>The site will also isync be a live, current and functional portfolio/resume to help me earn a position in the right company.</p>
 
 		My site will be a business(i don’t know what yet) that will attracted potential customers and clients to obtain my services. My Site will also be developed to showcase my coding for people who might be looking to hire me and would use my site as a reference point for what i may be capable of coding.
 
