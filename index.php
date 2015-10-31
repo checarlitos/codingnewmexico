@@ -14,6 +14,6 @@
 
 		I would like to be able to successfully produce a functional and interactive site that will be a useful and helpful tool for helping me pave a career path.
 	</p>
-	<p></p>
+
 </body>
 </html>
