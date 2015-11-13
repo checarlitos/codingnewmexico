@@ -59,17 +59,29 @@
       <!-- Example row of columns -->
       <div class="row">
         <div class="col-lg-8">
-          <h4>Subheading</h4>
-          <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+          <p><h4>Name:</h4>Pete Peterson</p>
 
-          <h4>Subheading</h4>
-          <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+          <h4>Age:</h4><p>45</p>
 
-          <h4>Subheading</h4>
+          <h4>Profession</h4>
           <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          <h4>Technology:</h4>
+          <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          <h4>Attitides & Behaviors:</h4>
+          <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          <h4>Frustrations and Needs:</h4>
+          <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          <h4>Goals:</h4>
+          <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+
         </div>
         <div class="col-md-4">
-          <h2>Heading</h2>
+          <h2>Use Case</h2>
           <p>Donec sed odio dui. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Vestibulum id ligula porta felis euismod semper. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.</p>
           <p><a class="btn btn-default" href="#" role="button">View details &raquo;</a></p>
         </div>
