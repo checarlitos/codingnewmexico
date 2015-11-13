@@ -38,10 +38,6 @@
         </div>
         <div id="navbar" class="navbar-collapse collapse">
           <form class="navbar-form navbar-right">
-            <div class="form-group">
-              <input type="text" placeholder="Email" class="form-control">
-            </div>
-
           </form>
         </div><!--/.navbar-collapse -->
       </div>
