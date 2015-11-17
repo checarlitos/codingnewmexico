@@ -46,13 +46,9 @@
 
     <!-- Main jumbotron for a primary marketing message or call to action -->
     <div class="jumbotron">
-      <div class="container">
-        <p class="text-center">
+      <div class="container" class="align-center">
         <h1>Hello, world!</h1>
-          <img class="pull-left" src="img/star-trek-cat.jpg" alt="star trek cat" />
         <p>This is a template for a simple marketing or informational website. It includes a large callout called a jumbotron and three supporting pieces of content. Use it as a starting point to create something more unique.</p>
-        </p>
-        </p>
       </div>
     </div>
 
