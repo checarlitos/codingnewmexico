@@ -49,6 +49,7 @@
       <div class="container">
         <div class="">
         <h1>Hello, world!</h1>
+          <img class="pull-left" src="img/star-trek-cat.jpg" alt="star trek cat" />
         <p>This is a template for a simple marketing or informational website. It includes a large callout called a jumbotron and three supporting pieces of content. Use it as a starting point to create something more unique.</p>
         </div>
       </div>
@@ -61,7 +62,8 @@
         <div class="col-lg-8">
           <p><h4>Name:</h4>Pete Peterson</p>
 
-          <h4>Age:</h4><p>45</p>
+          <h4>Age:</h4>
+          <p>45</p>
 
           <h4>Profession</h4>
           <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
