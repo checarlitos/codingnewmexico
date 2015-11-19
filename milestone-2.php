@@ -34,9 +34,32 @@
 							<span class="sr-only"> </span>
 						</button>
 							<a class="navbar=brand" href="milestone-2.php">MILEstone-2</a>
+					</div>
+					<div id="navbar" class="navbar-collapse collapse">
+						<form class="navbar-form navbar-right">
 
+						</form>
 					</div>
 				</div>
 			</nav>
+
+
+		<!----Message Area----->
+			<div class="jumbotron">
+			<div class="container">
+				<h1>MILEstone-2</h1>
+				<p>The purpose of Milestone 2 is to map out in further detail the User Experience and Interaction Design for the PWP prior to creating a mockup/wireframe, and commencing development. Focus will be placed on developing the foundation for creating a Minimum Viable Product.</p>
+			</div>
+		</div>
+
+
+		<div class="container">
+			<div class="row">
+				<div class="col-lg-8">
+					<h4>NAME:<p>Peter Peterson</p></h4>
+				</div>
+			</div>
+		</div>
+
 	</body>
 </html>
