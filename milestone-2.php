@@ -56,7 +56,8 @@
 		<div class="container">
 			<div class="row">
 				<div class="col-lg-8">
-					<p><b>NAME:</b>Peter Peterson</p>
+					<h4>NAME:</h4>
+					<p>Peter Peterson</p>
 				</div>
 			</div>
 		</div>
