@@ -21,6 +21,9 @@
 				<!-- Font Awsome----->
 				<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
 
+				<!--custom css------>
+				<link rel="stylesheet" href="//css/miletwo.css
+
 				<!-- Latest compiled and minified JavaScript -->
 				<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js" integrity="sha512-K1qjQ+NcF2TYO/eI3M6v8EiNYZfA95pQumfvcVrTHtwQVDG+aHRqLi/ETn2uB+1JqwYqVG3LIvdm9lj6imS/pQ==" crossorigin="anonymous"></script>
 
@@ -62,7 +65,7 @@
 
 					<h4>Age:</h4>
 					<p>45</p>
-					<div class=“clearfix”></div>
+
 
 					<h4>Profession</h4>
 					<p>15 yr as a small business owner of "petes bird shop” pete is very well respected and long standing professional in his community who takes his job seriously. Pete business caters to all pets needs and also has a small aquarium section a reptile habitat and a aviary. Pete relies on his community for his business to thrive. Petes community also depends on Pete pet shop for the services and products that he provides.</p>
