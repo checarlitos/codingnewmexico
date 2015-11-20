@@ -97,7 +97,7 @@
 						<p>Pete and i have a general dialogue regarding my personal and past experience in web design. I proceed to ask pete what type of services he is need of, i show him past work that i have created to help inspire him creatively and create a president of what type of work can be provided to him, whether it is a website or a personal app for his store.</p>
 						</p>
 
-					<p><a class="btn btn-default" href="#" role="button">View Sitemap&raquo;</a></p>
+					<p><a class="btn btn-default" href="#" role="button">View Key Interactions&raquo;</a></p>
 				</div>
 			</div>
 
