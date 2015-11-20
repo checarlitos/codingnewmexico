@@ -1,5 +1,5 @@
 <!DOCTYPE HTML>
-<html>
+<html xmlns="http://www.w3.org/1999/html">
 	<head>
 		<meta charset="UTF-8">
 		<meta http-equiv="x-ua-compatible" content="IE=edge">
@@ -55,9 +55,13 @@
 
 		<div class="container">
 			<div class="row">
-				<div class="col-lg-8">
+				<div class="col-md-2">
 					<h4>NAME:</h4>
+				</div>
+				<div class="col-md-6">
 					<p>Peter Peterson</p>
+				</div>
+			</div>
 
 					<h4>Profession:</h4>
 					<p>15 yr as a small business owner of "petes bird shop” pete is very well respected and long standing professional in his community who takes his job seriously. Pete business caters to all pets needs and also has a small aquarium section a reptile habitat and a aviary. Pete relies on his community for his business to thrive, Pete's community also depends on "Pete's pet shop" for the services and products that he has been provides.</p>
