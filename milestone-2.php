@@ -57,6 +57,7 @@
 			<!-- Example row of columns -->
 			<div class="row">
 				<div class="col-lg-8">
+					<h2>Persona</h2>
 					<p><h4>Name:</h4>Pete Peterson</p>
 
 					<h4>Age:</h4>
@@ -92,9 +93,6 @@
 				</div>
 			</div>
 
-
-					<h2>Use Case</h2>
-					<p> </p>
 
 			</div>
 		</div>
