@@ -33,7 +33,7 @@
 						<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
 							<span class="sr-only"> </span>
 						</button>
-							<a class="navbar=brand" href="milestone-2.php">MILEstone-2</a>
+							<a class="navbar=brand" href="milestone-2.php">MILEstone-2 for Carlos Beraun</a>
 					</div>
 					<div id="navbar" class="navbar-collapse collapse">
 						<form class="navbar-form navbar-right">
