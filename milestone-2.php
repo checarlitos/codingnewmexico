@@ -68,14 +68,14 @@
 					<h4>Technology:</h4>
 					<p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
 
-					<h4>Attitides & Behaviors:</h4>
+					<h4>Attitudes & Behaviors:</h4>
 					<p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
 
 					<h4>Frustrations and Needs:</h4>
 					<p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
 
 					<h4>Goals:</h4>
-					<p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+					<p>pete is mostly concerned with his site being able to match the look and feel of his brick and mortar shop. pete will make his decision based on his belief if her feels that he will be able to work with the person/developer, and will be reassure his decision by looking over the portfolio of previous work that the developer/business has provides for other businesses..</p>
 
 
 				</div>
