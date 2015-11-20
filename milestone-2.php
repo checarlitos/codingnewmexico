@@ -86,12 +86,13 @@
 				</div>
 				<div class="col-md-4">
 					<h2>Use Case</h2>
-					<p>this is just a place holder with text for the use case that i am developing. i really hope that it is use full and easy to understand. SOmetimes when i write stuff
-						i dont understand half of th things that i put in the page. Once i dont even know this but i added my personal info ya totally stupid i just spaced out adn start to type what
-						i was thinking about. i will do it now but i willl not add personal info....chinese food sounds good right now, but i know it will be a mistake later after it digests.
-						what ever happened to the dog that almost raped my cousin in 1996????? why does my dad always have a pissed off look on his face even when he is laughing.
-						i cant stop listening to this danm selena gomez song. take away yout hings and go you cant take back ehat you said, ive heard it a million times. i dont belive,
-						i dont belive that you left me in pieces. why is her head so small?????</p>
+					<p>Pete Peterson has looks over a flyer that he has received in the mail from codingnewmexico.com. He is intrigued, he begins to do little bit of research on the coding New Mexico company using his mobile device. Pete interest has drawn to contacting codingnewmexico.com and schedules a appointment to meet Carlos at his Pet Store.
+
+						Pete has reviewed the codingnewmexico.com site multiple times and is excited to see what services the coding NM company has to offer his business. Looking over the site, pete begins to create a picture of what he wants on his site. While reading and exploring further into the codingnewmexico.com site pete starts to think of potential apps that he would like to develop for his store.
+
+						On a Tuesday afternoon  Pete is greeted at his store by myself Carlos Beraun. Pete gives a quick tour while mentioning some of his stores most important features and characteristics that he wants incorporated in a website.
+
+						Pete and i have a general dialogue regarding my personal and past experience in web design. I proceed to ask pete what type of services he is need of, i show him past work that i have created to help inspire him creatively and create a president of what type of work can be provides to him weather it is a simple website or a personal app for his store.</p>
 
 					<p><a class="btn btn-default" href="#" role="button">View details &raquo;</a></p>
 				</div>
