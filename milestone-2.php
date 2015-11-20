@@ -78,7 +78,12 @@
 					<h4>Goals:</h4>
 					<p>pete is mostly concerned with his site being able to match the look and feel of his brick and mortar shop. pete will make his decision based on his belief if her feels that he will be able to work with the person/developer, and will be reassure his decision by looking over the portfolio of previous work that the developer/business has provides for other businesses.</p>
 
-				</div>
+			</div>
+
+				<div class="col-md-4">
+					<h2>Use Case</h2>
+					<p>this is ju</p>
+
 			</div>
 		</div>
 
