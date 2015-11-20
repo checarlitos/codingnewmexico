@@ -82,7 +82,12 @@
 
 				<div class="col-md-4">
 					<h2>Use Case</h2>
-					<p>this is ju</p>
+					<p>this is just a place holder with text for the use case that i am developing. i really hope that it is use full and easy to understand. SOmetimes when i write stuff
+					i dont understand half of th things that i put in the page. Once i dont even know this but i added my personal info ya totally stupid i just spaced out adn start to type what
+					i was thinking about. i will do it now but i willl not add personal info....chinese food sounds good right now, but i know it will be a mistake later after it digests.
+					what ever happened to the dog that almost raped my cousin in 1996????? why does my dad always have a pissed off look on his face even when he is laughing.
+					i cant stop listening to this danm selena gomez song. take away yout hings and go you cant take back ehat you said, ive heard it a million times. i dont belive,
+						i dont belive that you left me in pieces. why is her head so small????? </p>
 
 			</div>
 		</div>
