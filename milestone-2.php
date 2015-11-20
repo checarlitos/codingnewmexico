@@ -48,7 +48,7 @@
 			<div class="jumbotron">
 			<div class="container">
 				<h1>MILEstone-2</h1>
-				<p>The purpose of Milestone 2 is to map out in further detail the User Experience and Interaction Design for the PWP prior to creating a mockup/wireframe, and commencing development. Focus will be placed on developing the foundation for creating a Minimum Viable Product.</p>
+				<p>"The purpose of Milestone 2 is to map out in further detail the User Experience and Interaction Design for the PWP prior to creating a mockup/wireframe, and commencing development. Focus will be placed on developing the foundation for creating a Minimum Viable Product."</p>
 			</div>
 		</div>
 
@@ -62,6 +62,7 @@
 
 					<h4>Age:</h4>
 					<p>45</p>
+					<div class=“clearfix”></div>
 
 					<h4>Profession</h4>
 					<p>15 yr as a small business owner of "petes bird shop” pete is very well respected and long standing professional in his community who takes his job seriously. Pete business caters to all pets needs and also has a small aquarium section a reptile habitat and a aviary. Pete relies on his community for his business to thrive. Petes community also depends on Pete pet shop for the services and products that he provides.</p>
