@@ -45,12 +45,15 @@
     </nav>
 
     <!-- Main jumbotron for a primary marketing message or call to action -->
+    <div class="row">
+      <div class="col-lg-8">
     <div class="jumbotron">
-      <h1>Jumbotron heading</h1>
-      <p class="lead">Cras justo odio, dapibus ac facilisis in, egestas eget quam. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.</p>
-      <p><a class="btn btn-lg btn-success" href="#" role="button">Sign up today</a></p>
+        <h1>Jumbotron heading</h1>
+        <p class="lead">Cras justo odio, dapibus ac facilisis in, egestas eget quam. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.</p>
+        <p><a class="btn btn-lg btn-success" href="#" role="button">Sign up today</a></p>
     </div>
-
+</div>
+      </div>
 
 
     <div class="container">

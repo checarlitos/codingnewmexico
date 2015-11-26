@@ -86,15 +86,15 @@
 				</div>
 				<div class="col-md-4">
 					<h2>Use Case</h2>
-					<p>Pete Peterson has looks over a flyer that he has received in the mail from codingnewmexico.com. He is intrigued, he begins to do little bit of research on the coding New Mexico company using his mobile device. Pete interest has drawn to contacting codingnewmexico.com and schedules a appointment to meet Carlos at his Pet Store.
+					<p>Pete Peterson has looks over a flyer that he has received in the mail from codingnewmexico.com. He is intrigued, he begins to do a little more research on the coding New Mexico company using his mobile device.
 
-						<p>Pete has reviewed the codingnewmexico.com site multiple times and is excited to see what services the coding NM company has to offer his business. Looking over the site, pete begins to create a picture of what he wants on his site. While reading and exploring further into the codingnewmexico.com site pete starts to think of potential apps that he would like to develop for his store.
+						<p>Pete begins to read over and explore the codingnewmexico.com site and see what services are provided and how those services can help his business. As Pete continues to read on, he starts to feel inspired by the website to create a web presence for his own business. Looking over the site, Pete is inspired by every page he reads on the site and mentally builds a picture of what he wants on his site. Pete's interest has peaked and has drawn him to contacting codingnewmexico.com to schedules a appointment and meet Carlos at his Pet Store. Pete is excited to see how the services provided by codingnewmexico.com can help his business.
 						</p>
 
-						<p>On a Tuesday afternoon  Pete is greeted at his store by myself Carlos Beraun. Pete gives a quick tour while mentioning some of his stores most important features and characteristics that he wants incorporated in a website.
+						<p>On a Tuesday afternoon Pete greets Carlos Beraun at his store. Pete gives a quick tour while mentioning some of his stores most important features and characteristics that he wants incorporated in a website.
 						</p>
 
-						<p>Pete and i have a general dialogue regarding my personal and past experience in web design. I proceed to ask pete what type of services he is need of, i show him past work that i have created to help inspire him creatively and create a president of what type of work can be provided to him, whether it is a website or a personal app for his store.</p>
+						<p>Pete and Carlos have a general dialogue regarding previous work and services that can be provides to him from web development and design to personal software and web applications. Carlos proceed to ask pete what type of services he is need of. A more extensive portfolio and samples are shown to Pete is again inspired, he is asked to creatively create a base line idea of what type of work he is seeking, whether it is a website or a personal app for his store. Pete is then reassured that by obtaining the services of codingnewmexico.com that his business would be in good hands.
 						</p>
 
 					<p><a class="btn btn-default" href="#" role="button">View Key Interactions&raquo;</a></p>
