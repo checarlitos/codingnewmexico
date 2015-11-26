@@ -88,7 +88,7 @@
 					<h2>Use Case</h2>
 					<p>Pete Peterson has looks over a flyer that he has received in the mail from codingnewmexico.com. He is intrigued, he begins to do a little more research on the coding New Mexico company using his mobile device.
 
-						<p>Pete begins to read over and explore the codingnewmexico.com site and see what services are provided and how those services can help his business. As Pete continues to read on, he starts to feel inspired by the website to create a web presence for his own business. Looking over the site, Pete is inspired by every page he reads on the site and mentally builds a picture of what he wants on his site. Pete's interest has peaked and has drawn him to contacting codingnewmexico.com to schedules a appointment and meet Carlos at his Pet Store. Pete is excited to see how the services provided by codingnewmexico.com can help his business.
+						<p>Pete begins to read over and explore the codingnewmexico.com site and see what services are provided and how those services can help his business. As Pete continues to read on, he starts to feel inspired by the website to create a web presence for his own business. Looking over the site more and more Pete begins to mentally builds a picture of what he wants on his site. Pete's interest has peaked and has drawn him to contacting codingnewmexico.com to schedules a appointment and meet Carlos at his Pet Store. Pete is excited to see how the services provided by codingnewmexico.com can help his business.
 						</p>
 
 						<p>On a Tuesday afternoon Pete greets Carlos Beraun at his store. Pete gives a quick tour while mentioning some of his stores most important features and characteristics that he wants incorporated in a website.
