@@ -94,7 +94,7 @@
 						<p>On a Tuesday afternoon Pete greets Carlos Beraun at his store. Pete gives a quick tour while mentioning some of his stores most important features and characteristics that he wants incorporated in a website.
 						</p>
 
-						<p>Pete and Carlos have a general dialogue regarding previous work and services that can be provides to him from web development and design to personal software and web applications. Carlos proceed to ask pete what type of services he is need of. A more extensive portfolio and samples are shown to Pete is again inspired, he is asked to creatively create a base line idea of what type of work he is seeking, whether it is a website or a personal app for his store. Pete is then reassured that by obtaining the services of codingnewmexico.com that his business would be in good hands.
+						<p>Pete and Carlos have a general dialogue regarding previous work and services that can be provided to Pete, from web development and design to personal software and web applications. Carlos proceed to ask pete what type of services he is need of. A more extensive portfolio and samples are shown to Pete is again inspired, he is asked to creatively create a base line idea of what type of work he is seeking, whether it is a website or a personal app for his store. Pete is then reassured that by obtaining the services of codingnewmexico.com that his business would be in good hands.
 						</p>
 
 					<p><a class="btn btn-default" href="#" role="button">View Key Interactions&raquo;</a></p>
