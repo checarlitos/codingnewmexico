@@ -88,14 +88,16 @@
 					<h2>Use Case</h2>
 					<p>Pete Peterson has looks over a flyer that he has received in the mail from codingnewmexico.com. He is intrigued, he begins to do a little more research on the coding New Mexico company using his mobile device.
 
-						<p>Pete begins to read over and explore the codingnewmexico.com site and see what services are provided. As Pete continues to read on, he starts to feel inspired by the website to create a web presence for his own business. Looking over the site more and more Pete begins to mentally builds a picture of what he wants on his site. Pete's interest has peaked and has drawn him to contacting codingnewmexico.com to schedules a appointment and meet Carlos at his Pet Store. Pete is excited to see how codingnewmexico.com services can help his business.
+						<p>Pete begins to read over and explore the codingnewmexico.com site and see what services are provided. As Pete continues to read on from page to page, he starts to feel inspired by the website to create a web presence for his own business. Looking through the site's pages he looks over previous work done by codingnewmexico.com Pete begins to mentally build a picture of what he would like to have in a site for himself. Pete's interest has peaked and has drawn him to contacting codingnewmexico.com to schedules a appointment and meet Carlos at his Pet Store.
 						</p>
 
-						<p>On a Tuesday afternoon Pete greets Carlos Beraun at his store. Pete gives a quick tour while mentioning some of his stores most important features and characteristics that he wants incorporated in a website.
+						<p>On a midweek afternoon day Pete calls codingnewmexico.com via phone to schedule an appointment. Pete pulls up the codingnewmexico.com website gives himself another quick tour before placing a phone call to codingnewmexico.com. Pete is using his office computer with a on a 22" lg monitor. Pete continues to read over the website and see's that on he is able to associate with some of the business points showcased by codingnewmexico.com's business mission found on Carlos's profile page.
 						</p>
 
+						<!---- not needed content
 						<p>Pete and Carlos have a general dialogue regarding some of Coding New Mexico's previous clients and current services that Coding New Mexico can provided to Pete, from web development and design to personal software and web applications. Carlos proceeds to ask pete what type of services he is need of, A more extensive portfolio and samples are shown to help create inspiration for his own web site. Carlos then asks Pete to creatively explain a base line idea of what type of work Pete is seeking for his store website. While still inspired Carlos then provides Pete with a modest estimate and time frame for delivery of a final product. During the entire communication process Carlos has established that if Pete chooses to obtain Coding New Mexico's service's he is assured that his business would be in good hands.
 						</p>
+						----->
 
 					<p><a class="btn btn-default" href="#" role="button">View Key Interactions&raquo;</a></p>
 				</div>
