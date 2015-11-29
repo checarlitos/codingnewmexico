@@ -109,7 +109,7 @@
 						<div class="modal-dialog">
 							<div class="modal-content">
 								<div class="modal-body">
-									<img src="//placehold.it/1000x600" class="img-responsive">
+									<img src="keyint001.jpg" class="img-responsive">
 								</div>
 							</div>
 						</div>
