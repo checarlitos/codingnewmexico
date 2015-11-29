@@ -9,7 +9,7 @@
     <meta name="author" content="">
     <link rel="icon" href="../../favicon.ico">
 
-    <title>Jumbotron Template for Bootstrap</title>
+    <title>Key</title>
 
     <!-- Bootstrap core CSS -->
     <!-- Latest compiled and minified CSS -->

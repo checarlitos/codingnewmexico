@@ -88,10 +88,10 @@
 					<h2>Use Case</h2>
 					<p>Pete Peterson has looks over a flyer that he has received in the mail from codingnewmexico.com. He is intrigued, he begins to do a little more research on the coding New Mexico company using his mobile device.
 
-						<p>Pete begins to read over and explore the codingnewmexico.com site and see what services are provided. As Pete continues to read on from page to page, he starts to feel inspired by the website to create a web presence for his own business. Looking through the site's pages he looks over previous work done by codingnewmexico.com Pete begins to mentally build a picture of what he would like to have in a site for himself. Pete's interest has peaked and has drawn him to contacting codingnewmexico.com to schedules a appointment and meet Carlos at his Pet Store.
+						<p>Pete continues to read over and explore the codingnewmexico.com site and see what services are provided. As Pete reads from page to page, he starts to feel inspired by the website to create a web presence for his own business. Looking through the site's pages he looks over previous work done by codingnewmexico.com Pete begins to mentally build a picture of what he would like to have in a site for himself. Pete's interest has peaked and has drawn him to contacting codingnewmexico.com to schedules a appointment and meet Carlos at his Pet Store.
 						</p>
 
-						<p>On a midweek afternoon day Pete calls codingnewmexico.com via phone to schedule an appointment. Pete pulls up the codingnewmexico.com website gives himself another quick tour before placing a phone call to codingnewmexico.com. Pete is using his office computer with a on a 22" lg monitor. Pete continues to read over the website and see's that on he is able to associate with some of the business points showcased by codingnewmexico.com's business mission found on Carlos's profile page.
+						<p>On a midweek afternoon day Pete decides to contact codingnewmexico.com to schedule an appointment. Pete pulls up the codingnewmexico.com site using his office computer with a 22" monitor. Pete then sends an email using a contact form on the codingnewmexico.com landing page, he gives himself another quick tour and as he continues to read over the website he see's that on he is able to associate with some of the business points showcased by codingnewmexico.com's business mission found on Carlos's profile page.
 						</p>
 
 						<!---- not needed content
