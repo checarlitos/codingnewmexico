@@ -103,6 +103,20 @@
 					<p><a class="btn btn-default" href="keyint001.jpg" role="button">View Key Interactions&raquo;</a></p>
 
 
+					<button type="button" class="btn btn-primary" data-toggle="modal" data-target="#myModal">Popup image</button>
+
+					<div id="myModal" class="modal fade" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+						<div class="modal-dialog">
+							<div class="modal-content">
+								<div class="modal-body">
+									<img src="keyint001.jpg" class="img-responsive">
+								</div>
+							</div>
+						</div>
+					</div>
+
+
+
 								</div>
 							</div>
 						</div>
