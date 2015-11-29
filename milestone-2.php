@@ -99,9 +99,9 @@
 						</p>
 						----->
 
-					<!-----KEY INT BTN
-					<p><a class="btn btn-default" href="#" role="button">View Key Interactions&raquo;</a></p>
-					-------->
+
+					<p><a class="btn btn-default" href="keyint001.jpg" role="button">View Key Interactions&raquo;</a></p>
+
 
 								</div>
 							</div>
