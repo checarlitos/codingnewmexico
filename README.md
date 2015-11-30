@@ -13,3 +13,10 @@ There are a few problems here:
 I see that your purpose is generally defined (a personal portfolio for business/employment purposes), but I'd like to see a little more organization here. 
 
 Your PWP Milestone 1 passes at [Tier II](https://bootcamp-coders.cnm.edu/projects/personal/rubric/)
+
+## Milestone 2 Feeback
+Great job on Milestone 2. Awesome Bootstrap! Nice to see you digging into the framework, and aside from a few extra closing tags, your HTML looks good. Be careful of copy-pasta though. Your Milestone 2 passes, but please fix the directory structure ASAP (see note below). Go ahead and started on Milestone 3 before staring development.
+
+### Suggestions
+- Please re-do your directory stucture. Talk with me if you have any questions. See the [Milestone 1 documentation](https://bootcamp-coders.cnm.edu/projects/personal/milestone-one/) for instructions.
+- If time is running short (which it probably will!), the landing page can be cut I think. Then you will only have the 3 essential pages.
