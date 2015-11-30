@@ -99,17 +99,17 @@
 						</p>
 						----->
 
-						<div> <ol>
-								<li>Landing Page</li>
-								<li>Home Page/portfolio</li>
-								<li>Contact Form</li>
-								<li>Profile</li>
-
-							</ol>
 
 					<img class="img-responsive" src="keyint001.jpg" alt="use case flow chart">
 					<p><a class="btn btn-default" href="keyint001.jpg" role="button">Click to enlarge&raquo;</a></p>
 
+					<div> <ol>
+							<li>Landing Page</li>
+							<li>Home Page/portfolio</li>
+							<li>Contact Form</li>
+							<li>Profile</li>
+
+						</ol>
 
 
 
