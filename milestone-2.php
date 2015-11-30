@@ -129,8 +129,9 @@
 
 		<div class="jumbotron">
 			<div class="container">
-				<h1>MILEstone-2</h1>
-				<p>"The purpose of Milestone 2 is to map out in further detail the User Experience and Interaction Design for the PWP prior to creating a mockup/wireframe, and commencing development. Focus will be placed on developing the foundation for creating a Minimum Viable Product."</p>
+				<h2>Sitemap</h2>
+				<p>This site will have 4 pages. These pages will hold the content for the codingnewmexico.com site.</p>
+				<img class="img-responsive" src="keyint001.jpg" alt="use case flow chart">
 			</div>
 		</div>
 
