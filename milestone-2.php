@@ -131,7 +131,7 @@
 			<div class="container">
 				<h2>Sitemap</h2>
 				<p>This site will have 4 pages. These pages will hold the content for the codingnewmexico.com site.</p>
-				<img class="img-responsive" src="keyint001.jpg" alt="use case flow chart">
+				<img class="img-responsive" src="keyint001.jpg">
 			</div>
 		</div>
 
