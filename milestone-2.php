@@ -99,6 +99,13 @@
 						</p>
 						----->
 
+						<div> <ol>
+								<li>Landing Page</li>
+								<li>Home Page/portfolio</li>
+								<li>Contact Form</li>
+								<li>Profile</li>
+
+							</ol>
 
 					<img class="img-responsive" src="keyint001.jpg" alt="use case flow chart">
 					<p><a class="btn btn-default" href="keyint001.jpg" role="button">Click to enlarge&raquo;</a></p>
@@ -117,6 +124,16 @@
 
 			</div>
 		</div>
+
+
+
+		<div class="jumbotron">
+			<div class="container">
+				<h1>MILEstone-2</h1>
+				<p>"The purpose of Milestone 2 is to map out in further detail the User Experience and Interaction Design for the PWP prior to creating a mockup/wireframe, and commencing development. Focus will be placed on developing the foundation for creating a Minimum Viable Product."</p>
+			</div>
+		</div>
+
 
 	</body>
 </html>
