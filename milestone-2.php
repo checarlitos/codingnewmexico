@@ -99,9 +99,6 @@
 						</p>
 						----->
 
-
-					<img class="img-responsive" src="keyint001.jpg" alt="use case flow chart">
-
 					<!-----button
 					<p><a class="btn btn-default" href="keyint001.jpg" role="button">Click to enlarge&raquo;</a></p>
 					---->
