@@ -101,19 +101,11 @@
 
 
 					<img class="img-responsive" src="keyint001.jpg" alt="use case flow chart">
+
+					<!-----button
 					<p><a class="btn btn-default" href="keyint001.jpg" role="button">Click to enlarge&raquo;</a></p>
+					---->
 
-					<div> <ol>
-							<li>Landing Page</li>
-							<li>Home Page/portfolio</li>
-							<li>Contact Form</li>
-							<li>Profile</li>
-
-						</ol>
-
-
-
-								</div>
 							</div>
 						</div>
 					</div>
@@ -132,6 +124,17 @@
 				<h2>Sitemap</h2>
 				<p>This site will have 4 pages. These pages will hold the content for the codingnewmexico.com site.</p>
 				<img class="img-responsive" src="keyint001.jpg">
+
+				<div> <ol>
+						<li>Landing Page</li>
+						<li>Home Page/portfolio</li>
+						<li>Contact Form</li>
+						<li>Profile</li>
+						</ol>
+
+
+
+				</div>
 			</div>
 		</div>
 
