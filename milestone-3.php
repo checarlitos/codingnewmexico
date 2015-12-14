@@ -36,7 +36,7 @@
 						<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
 							<span class="sr-only"> </span>
 						</button>
-							<a class="navbar=brand" href="milestone-2.php">MILEstone-2 for Carlos Beraun</a>
+							<a class="navbar=brand" href="milestone-2.php">MILEstone-3 for Carlos Beraun</a>
 					</div>
 					<div id="navbar" class="navbar-collapse collapse">
 						<form class="navbar-form navbar-right">
@@ -50,8 +50,8 @@
 		<!----Message Area----->
 			<div class="jumbotron">
 			<div class="container">
-				<h1>MILEstone-2</h1>
-				<p>"The purpose of Milestone 2 is to map out in further detail the User Experience and Interaction Design for the PWP prior to creating a mockup/wireframe, and commencing development. Focus will be placed on developing the foundation for creating a Minimum Viable Product."</p>
+				<h1><MILEstone-3></MILEstone-3></h1>
+				<p>"The purpose of Milestone 3 The purpose of Milestone 3 is to begin planning the User Interface of your project prior to starting development."</p>
 			</div>
 		</div>
 
