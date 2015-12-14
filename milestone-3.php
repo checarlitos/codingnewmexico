@@ -118,9 +118,9 @@
 
 				<div> <ol><h4>
 						<li>Landing Page</li>
-						<li>Home Page/portfolio</li>
-						<li>Contact Form</li>
-						<li>Profile</li>
+						<li>Home Page</li>
+						<li>About us/portfolio</li>
+						<li>Contact us</li>
 						</h4></ol>
 
 					<img class="img-responsive" src="dessktopWIRE.jpg">
