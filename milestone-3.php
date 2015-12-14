@@ -50,7 +50,7 @@
 		<!----Message Area----->
 			<div class="jumbotron">
 			<div class="container">
-				<h1>MILEstone-2</h1>
+				<h1>MILEstone-3</h1>
 				<p>"The purpose of Milestone 3 The purpose of Milestone 3 is to begin planning the User Interface of your project prior to starting development."</p>
 			</div>
 		</div>
