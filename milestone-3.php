@@ -59,7 +59,7 @@
 		<div class="container">
 			<!-- Example row of columns -->
 			<div class="row">
-				<div class="col-lg-8">
+				<div class="col-md-8">
 					<h2>Persona</h2>
 					<p><h4>Name:</h4>Pete Peterson</p>
 
