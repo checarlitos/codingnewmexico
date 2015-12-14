@@ -63,7 +63,7 @@
 					<h2>Mobile device wire frame.</h2>
 
 
-					<div class="span7 center"> <ol><h4>
+					<div> <ol><h4>
 								<li>Landing Page</li>
 								<li>Home Page/services</li>
 								<li>Portfolio/about me</li>
