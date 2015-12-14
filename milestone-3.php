@@ -68,6 +68,7 @@
 								<li>Contact Form</li>
 								<li>Profile</li>
 							</h4></ol>
+						<img class="img-responsive" src="keyint001.jpg">
 					</div>
 
 				</div>
