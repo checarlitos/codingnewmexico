@@ -62,8 +62,8 @@
 				<div class="col-md-12">
 					<h2>Mobile device wire frame.</h2>
 
-					<div class="span7 center">
-					<div> <ol><h4>
+
+					<div class="span7 center"> <ol><h4>
 								<li>Landing Page</li>
 								<li>Home Page/services</li>
 								<li>Portfolio/about me</li>
@@ -71,7 +71,7 @@
 							</h4></ol>
 						<img class="img-responsive" src="mobileframe.jpg">
 					</div>
-					</div>
+
 
 				</div>
 
