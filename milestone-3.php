@@ -64,9 +64,9 @@
 
 					<div> <ol><h4>
 								<li>Landing Page</li>
-								<li>Home Page/portfolio</li>
-								<li>Contact Form</li>
-								<li>Profile</li>
+								<li>Home Page/services</li>
+								<li>Portfolio/about me</li>
+								<li>Contact form</li>
 							</h4></ol>
 						<img class="img-responsive" src="mobileframe.jpg">
 					</div>
