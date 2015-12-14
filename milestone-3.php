@@ -114,7 +114,7 @@
 			<div class="container">
 				<h2>DeskTop wire frame</h2>
 				<p>This site will have 4 pages and is mobile responsive</p>
-				<img class="img-responsive" src="dessktopWIRE.jpg">
+
 
 				<div> <ol><h4>
 						<li>Landing Page</li>
@@ -123,6 +123,7 @@
 						<li>Profile</li>
 						</h4></ol>
 
+					<img class="img-responsive" src="dessktopWIRE.jpg">
 
 
 				</div>
