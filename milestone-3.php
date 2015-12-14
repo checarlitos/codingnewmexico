@@ -62,7 +62,7 @@
 				<div class="col-md-12">
 					<h2>Mobile device wire frame.</h2>
 
-					<div class="container text-center">
+					<div class="container-center">
 					<div> <ol><h4>
 								<li>Landing Page</li>
 								<li>Home Page/services</li>
