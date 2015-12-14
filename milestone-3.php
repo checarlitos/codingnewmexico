@@ -112,9 +112,9 @@
 
 		<div class="jumbotron">
 			<div class="container">
-				<h2>Sitemap</h2>
-				<p>This site will have 4 pages. These pages will hold the content for the codingnewmexico.com site.</p>
-				<img class="img-responsive" src="keyint001.jpg">
+				<h2>DeskTop wire frame</h2>
+				<p>This site will have 4 pages and is mobile responsive</p>
+				<img class="img-responsive" src="dessktopWIRE.jpg">
 
 				<div> <ol><h4>
 						<li>Landing Page</li>
