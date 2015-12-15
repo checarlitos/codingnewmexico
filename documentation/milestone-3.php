@@ -69,7 +69,7 @@
 								<li>Portfolio/about me</li>
 								<li>Contact form</li>
 							</h4></ol>
-						<img class="img-responsive" src="mobileframe.jpg">
+						<img class="img-responsive" src="../mobileframe.jpg">
 					</div>
 
 
@@ -123,7 +123,7 @@
 						<li>Contact us</li>
 						</h4></ol>
 
-					<img class="img-responsive" src="dessktopWIRE.jpg">
+					<img class="img-responsive" src="../dessktopWIRE.jpg">
 
 
 				</div>
