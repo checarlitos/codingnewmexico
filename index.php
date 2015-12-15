@@ -22,7 +22,7 @@
 		<link rel="stylesheet" href="font-awesome/css/font-awesome.min.css" type="text/css">
 
 		<!--Plugin CSS -->
-		<link rel="stylesheet" href="css/>animate.min.css" type="text/css">
+		<link rel="stylesheet" href="css/animate.min.css" type="text/css">
 
 		<!--custom CSS -->
 		<link rel="stylesheet" href="css/creative.min.css" type="text/css"
@@ -35,17 +35,40 @@
 
 	</head>
 
-<body id="page-top">
+< id="page-top">
 
 		<nav id="MainNav" class="navbar navbar-default navbar-fixed-top">
 			<div class="container-fluid">
 				<div class="navbar-header">
-					<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
-						<span class="sr-only">
 
-						</span>
+					<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+								<span class="sr-only"></span>
+								<span class="icon-bar"></span>
+								<span class="icon-bar"><</span>
 					</button>
+
+					<a class="nav-brand page-scroll" href="#page-top">CodingNewMexico.com</a>
+
 				</div>
 			</div>
 		</nav>
+
+
+	<!----Jquery------>
+	<script src="js/jquery.js"></script>
+
+	<!---bootstrap core javaScript---->
+	<script src="js/bootstrap.min.js"></script>
+
+	<!----plugin javaScript----->
+	<script src="js/jquery.easing.min.js"></script>
+	<script src="js/Jquery.fittext.js"></script>
+	<script src="js.wow.min.js"></script>
+
+	<!----custom theme JavaScript----->
+	<script src="js/creative.js"></script>
+
+
 </body>
+
+</html>
