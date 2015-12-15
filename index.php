@@ -35,7 +35,7 @@
 
 	</head>
 
-< id="page-top">
+<body id="page-top">
 
 		<nav id="MainNav" class="navbar navbar-default navbar-fixed-top">
 			<div class="container-fluid">
@@ -48,10 +48,28 @@
 					</button>
 
 					<a class="nav-brand page-scroll" href="#page-top">CodingNewMexico.com</a>
-
 				</div>
+
+				<!----header buttons------->
+				<div class=" collapse navbar-collapse" >
+					<ul class="nav navbar-nav navbar-right">
+						<li><a class="page-scroll">About us</a></li>
+						<li><a class="page-scroll">Portfolio</a></li>
+						<li><a class="page-scroll">Contact</a></li>
+					</ul>
+				</div>
+
 			</div>
 		</nav>
+
+
+
+
+
+
+
+
+
 
 
 	<!----Jquery------>
