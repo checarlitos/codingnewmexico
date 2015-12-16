@@ -74,6 +74,41 @@
 		</div>
 	</header>
 
+	<section class="bg-primary">
+		<div class="container">
+			<div class="row">
+				<div class="col-md-8 col-md-offset-2 text-center">
+						<h2 class="service-heading">We can help your business</h2>
+						<hr class="light">
+						<p class="text-fade">Coding New Mexico can provide everything a small business needs in media solutions. Web Sites, programing and Graphic design are only some of our specialties we also provide any print media resource available under the sun.</p>
+						<a href="#linkgoes here" class="btn btn-default btn-x1">Get started today</a>
+				</div>
+			</div>
+		</div>
+	</section>
+
+	<section>
+		<div class="container">
+			<div class="row">
+				<div class="col-med-12 text-center">
+					<h2 class="section-heading">Our Services</h2>
+					<hr class="primary">
+				</div>
+			</div>
+		</div>
+
+		<div class="container">
+			<div class="row">
+				<div class="col-md-3 col-md-6 text-center">
+					<div class="service-box">
+						<i class="fa fa-4x fa-diamond wow bounceIn Text-primary"
+					</div>
+				</div>
+			</div>
+		</div>
+
+	</section>
+
 
 
 
