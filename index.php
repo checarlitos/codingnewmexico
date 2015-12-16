@@ -138,33 +138,145 @@
 		<div class="container-fluid">
 			<div class="row no-gutter">
 				<div class="col-md-4 col-sm-6">
-					<a href="#link goes here" class="portfolio-box">
-							<img src="#IMAGE GOES HERE" class="img-responsive" alt="">
+					<a href="#link goes here " class="portfolio-box">
+							<img src="#IMAGE GOES HERE 1" class="img-responsive" alt="">
 						<div class="portfolio-box-caption">
 							<div class="portfolio-box-caption-contest">
-								<div class="project-category text-fade"></div>
+								<div class="project-category text-fade">
 								Sample of work
 							</div>
 
 							<div class="project-name">
 								Portfolio Sample
 							</div>
-
+							</div>
 						</div>
 					</a>
 				</div>
+
+				<div class="col-md-4 col-sm-6">
+					<a href="#link goes here" class="portfolio-box">
+						<img src="#IMAGE GOES HERE 2" class="img-responsive" alt="">
+						<div class="portfolio-box-caption">
+							<div class="portfolio-box-caption-contest">
+								<div class="project-category text-fade">
+									Sample of work
+								</div>
+
+								<div class="project-name">
+									Portfolio Sample
+								</div>
+							</div>
+						</div>
+					</a>
+				</div>
+
+				<div class="col-md-4 col-sm-6">
+					<a href="#link goes here" class="portfolio-box">
+						<img src="#IMAGE GOES HERE 3" class="img-responsive" alt="">
+						<div class="portfolio-box-caption">
+							<div class="portfolio-box-caption-contest">
+								<div class="project-category text-fade">
+									Sample of work
+								</div>
+
+								<div class="project-name">
+									Portfolio Sample
+								</div>
+							</div>
+						</div>
+					</a>
+				</div>
+
+
+				<div class="col-md-4 col-sm-6">
+					<a href="#link goes here" class="portfolio-box">
+						<img src="#IMAGE GOES HERE4" class="img-responsive" alt="">
+						<div class="portfolio-box-caption">
+							<div class="portfolio-box-caption-contest">
+								<div class="project-category text-fade">
+									Sample of work
+								</div>
+
+								<div class="project-name">
+									Portfolio Sample
+								</div>
+							</div>
+						</div>
+					</a>
+				</div>
+
+
+				<div class="col-md-4 col-sm-6">
+					<a href="#link goes here" class="portfolio-box">
+						<img src="#IMAGE GOES HERE5" class="img-responsive" alt="">
+						<div class="portfolio-box-caption">
+							<div class="portfolio-box-caption-contest">
+								<div class="project-category text-fade">
+									Sample of work
+								</div>
+
+								<div class="project-name">
+									Portfolio Sample
+								</div>
+							</div>
+						</div>
+					</a>
+				</div>
+
+
+				<div class="col-md-4 col-sm-6">
+					<a href="#link goes here" class="portfolio-box">
+						<img src="#IMAGE GOES HERE6" class="img-responsive" alt="">
+						<div class="portfolio-box-caption">
+							<div class="portfolio-box-caption-contest">
+								<div class="project-category text-fade">
+									Sample of work
+								</div>
+
+								<div class="project-name">
+									Portfolio Sample
+								</div>
+							</div>
+						</div>
+					</a>
+				</div>
+
 			</div>
 		</div>
 	</section>
 
+	<aside class="bg-dark">
+		<div class=" container text-center">
+			<div class="call-to-action">
+				<h2>Talk to some one today about how we can help you improve your web presence.</h2>
+				<a href="Link goes here" class="btn btn-default btn-xl wow tada">Contact Us</a>
+			</div>
+		</div>
+	</aside>
 
+	<section>
+		<div class="container">
+			<div class="row">
+				<div class="col-md-8 col-md-offcet-2 text-center">
+					<h2 class="section-heading"> Have a Question???</h2>
+					<hr class="primary">
+					<p>Give us a call or send us a email and we will be happy to help answer any questions about our services.</p>
+				</div>
 
+				<div class="col-md-4 col-md-offset-2 text-center">
+					<i class="fa fa-phone fa-3x wow bounceIn"></i>
+					<p>505-220-5290</p>
+				</div>
 
+				<div class="col-md-4 text-center">
+					<i class="fa fa-envelope-o fa-3x wow bounceIn" data-wow-delay="1.s"></i>
+					<p><a href="mailto:cbabq505@gmail.com">cbabq505@gmail.com</a></p>
+				</div>
 
-
-
-
-
+			</div>
+		</div>
+	</section>
 
 
 
