@@ -131,9 +131,30 @@
 					<p class="text-muted">Build your brand the right way</p>
 				</div>
 			</div>
-
 		</div>
+	</section>
 
+	<section class="no-padding">
+		<div class="container-fluid">
+			<div class="row no-gutter">
+				<div class="col-md-4 col-sm-6">
+					<a href="#link goes here" class="portfolio-box">
+							<img src="#IMAGE GOES HERE" class="img-responsive" alt="">
+						<div class="portfolio-box-caption">
+							<div class="portfolio-box-caption-contest">
+								<div class="project-category text-fade"></div>
+								Sample of work
+							</div>
+
+							<div class="project-name">
+								Portfolio Sample
+							</div>
+
+						</div>
+					</a>
+				</div>
+			</div>
+		</div>
 	</section>
 
 
