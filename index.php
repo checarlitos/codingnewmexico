@@ -101,10 +101,37 @@
 			<div class="row">
 				<div class="col-md-3 col-md-6 text-center">
 					<div class="service-box">
-						<i class="fa fa-4x fa-diamond wow bounceIn Text-primary"
+						<i class="fa fa-4x fa-diamond wow bounceIn Text-primary"></i>
+						<h3>Web Development</h3>
+						<p class="text-muted">All Our websites are built to deliver and maximize your brand's image across all majaor browsers and mobile devices.</p>
 					</div>
 				</div>
 			</div>
+
+			<div class="col-md-3 col-md-6 text center">
+				<div class="service-box">
+						<i class="fa fa-4x fa-paper-plane wow bounceIn text-primary" data-wow-delay=".1s"></i>
+						<h3>Social Media Management</h3>
+						<p class="text-muted">We can build and manage your businesses social web presence and develop advertising campaigns</p>
+				</div>
+			</div>
+
+			<div class="col-md-3 col-md-6 text-center">
+				<div class="service-box">
+					<i class="fa fa-4x fa-paper-plane wow bounceIn text-primary" data-wow-delay=".2s"></i>
+					<h3>Graphic Design & printing</h3>
+					<p class="text-muted">We produce amazing graphic design media for the web and video. We also have a large range of full service printing options.</p>
+				</div>
+			</div>
+
+			<div class="col-md-3 col-md-6 text-center">
+				<div class="service-box">
+					<i class="fa fa-4x fa-paper-plane wow bounceIn text-primary" data-wow-delay=".3s"></i>
+					<h3>Advertising/Video</h3>
+					<p class="text-muted">Build your brand the right way</p>
+				</div>
+			</div>
+
 		</div>
 
 	</section>
