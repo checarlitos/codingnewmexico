@@ -167,6 +167,10 @@ aside {
     }
 }
 
+.zialogo {
+    background-image: url(../img/);
+}
+
 header {
     position: relative;
     width: 100%;

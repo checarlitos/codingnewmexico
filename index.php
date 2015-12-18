@@ -44,7 +44,10 @@
 								<span class="icon-bar"><</span>
 					</button>
 
-					<a class="nav-brand page-scroll" href="#page-top">CodingNewMexico.com</a>
+					<a class="navbar-brand page-scroll" href="#page-top">
+						CodingNewMexico.com
+						<img alt="Brand" src="...ziaimage.png">
+					</a>
 				</div>
 
 				<!----header buttons------->
@@ -123,7 +126,7 @@
 				<div class="col-md-3 col-md-6 text-center">
 					<div class="service-box">
 						<i class="fa fa-4x fa-television wow bounceIn text-primary" data-wow-delay=".3s"></i>
-						<i class="fa fa-4x fa-video-camera wow bounceIn text-primary" data-wow-delay=".3s"></i>
+
 						<h3>Advertising & Video</h3>
 						<p class="text-muted">From billboard campaigns to tv commercials, Coding New Mexico provides top quality advertising solutions for all business sizes .</p>
 					</div>
